@@ -12,7 +12,33 @@ Un sistema simple para administrar tareas desde la terminal, con prioridades, ca
 - Python 3.6 o superior
 - No se requieren librerías externas
 
+Estructura del Proyecto 📂
+├── task.py          # Modelo de datos (Clase Task)
+├── task_manager.py  # Lógica de almacenamiento (Clase TaskManager)
+├── console_ui.py    # Interfaz de usuario (Clase ConsoleUI)
+└── main.py          # Punto de entrada principal
+
+Ejemplo de Uso 🖥️
+# Menú principal
+1. Ver tareas
+2. Añadir tarea
+3. Completar tarea
+4. Editar tarea
+5. Eliminar tarea
+0. Salir
+
+# Añadir tarea
+Título: Revisar documentación
+Descripción: Revisar cambios en la API
+Prioridad: 2 (normal)
+Categoría: Trabajo
+
+# Ver tareas
+1. [ ] • Revisar documentación (Trabajo)
+
+
 ## Instalación 📥
 1. Clona el repositorio o descarga los archivos:
    ```bash
    git clone https://github.com/tu-usuario/gestor-tareas.git
+   cd gestor-tareas  

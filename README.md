@@ -12,14 +12,14 @@ Un sistema simple para administrar tareas desde la terminal, con prioridades, ca
 - Python 3.6 o superior
 - No se requieren librerías externas
 
-Estructura del Proyecto 📂
+## Estructura del Proyecto 📂
 ├── task.py          # Modelo de datos (Clase Task)
 ├── task_manager.py  # Lógica de almacenamiento (Clase TaskManager)
 ├── console_ui.py    # Interfaz de usuario (Clase ConsoleUI)
 └── main.py          # Punto de entrada principal
 
-Ejemplo de Uso 🖥️
-# Menú principal
+## Ejemplo de Uso 🖥️
+Menú principal
 1. Ver tareas
 2. Añadir tarea
 3. Completar tarea

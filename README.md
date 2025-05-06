@@ -1,6 +1,6 @@
 # Gestor de Tareas en Consola 📝
 
-Un sistema simple para administrar tareas desde la terminal, con prioridades, categorías y persistencia en JSON.
+Un sistema para administrar tareas desde la terminal, con prioridades, categorías y persistencia en JSON.
 
 ## Características ✨
 - ✅ Crear, editar, eliminar y marcar tareas como completadas

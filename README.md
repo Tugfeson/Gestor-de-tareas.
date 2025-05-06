@@ -13,10 +13,12 @@ Un sistema para administrar tareas desde la terminal, con prioridades, categorí
 - No se requieren librerías externas
 
 ## Estructura del Proyecto 📂
+```bash
 ├── task.py          # Modelo de datos (Clase Task)
 ├── task_manager.py  # Lógica de almacenamiento (Clase TaskManager)
 ├── console_ui.py    # Interfaz de usuario (Clase ConsoleUI)
 └── main.py          # Punto de entrada principal
+```
 
 ## Ejemplo de Uso 🖥️
 ```bash

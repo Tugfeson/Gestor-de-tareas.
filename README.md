@@ -19,6 +19,7 @@ Un sistema simple para administrar tareas desde la terminal, con prioridades, ca
 └── main.py          # Punto de entrada principal
 
 ## Ejemplo de Uso 🖥️
+```bash
 Menú principal
 1. Ver tareas
 2. Añadir tarea
@@ -36,7 +37,7 @@ Categoría: Trabajo
 # Ver tareas
 1. [ ] • Revisar documentación (Trabajo)
 
-
+```
 ## Instalación 📥
 1. Clona el repositorio o descarga los archivos:
    ```bash
